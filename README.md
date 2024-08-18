@@ -23,6 +23,3 @@ Modifica una pelicula
 DELETE: 
 Elimina una pelicula a través del id
 1. /movies/{movieId}
-   
-BBDD con MySQL.
-Se ha testeado con Postman y en localhost.
