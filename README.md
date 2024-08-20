@@ -4,7 +4,7 @@ Proyecto Java de demostración de una api CRUD con Spring.
 
 Se ha subido un archivo .csv llamado "imdb_top_1000.csv" para importar los datos que usa la api.
 
-El proyecto consta de los siguientes Mappings.
+El proyecto consta de los siguientes endpoints.
 
 GET: 
 Muestra datos de la tabla
